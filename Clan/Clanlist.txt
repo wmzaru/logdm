@@ -1,0 +1,32 @@
+  Barracks								clanbarracks.zip
+  Clan admin approval v20070829b		clanadminapproval00.zip
+  Clan Avatars							clan_avatars.zip
+  Clan Buffs v 2.1						clanbuffs0.zip
+  Clan Bulletin							bulletin.zip
+  Clan DK Rewards v 1.1.2				clandkrewards0.zip
+  Clan Forge v1.3						clanforge.zip
+  Clan Hitlist							clanhitlist.zip
+  Clan member cap						clanmembercap0.zip
+  Clan Moderation						clanmoderate.zip
+  Clan Options							clanoptions.zip
+  Clan Patch + Clan Rank Enhancement	clanleaderpatch.zip
+  Clan PvP Contest						clanpvpcontest.zip
+  Clan PvP Track						clanpvptrack.zip
+  Clan Pyramids Images					pyramidimages.zip
+  Clan Pyramids v 1.3.2					clanpyramid.zip
+  Clan Ranks Module						clanranks1.zip
+  Clan Training							clantrain05.zip
+  Clan Training - Enhanced				clantrain.zip
+  Clan Training Room					trainingroom0.zip
+  Clan Vault v 1.99 - MINOR BUGS		clanvault.zip
+  Clan Vault v 2.00 - 1.1.x compatible	clanvault_v_2.zip
+  Clan War Pack - MINOR BUG*			clanwarpack.zip
+  Clan Weapon and Armor					clanwa.zip
+  Coliseum v 1.1						colliseum.zip
+  Dags Bounties - Clan addon			dag_with_clans.zip
+  DK Requirement for Clan starters		dkreq4gldldrs.zip
+  HoF Clan DK Listing					hofclandk.zip
+  Internal Clan Description				inclandesc.zip
+  Vault Guardian v 1.2					vaultguardian.zip
+  Vessa Clan v 9.3						vessaclan.zip
+  War Castle Plains - FATAL BUG*		warcastleplains.zip
